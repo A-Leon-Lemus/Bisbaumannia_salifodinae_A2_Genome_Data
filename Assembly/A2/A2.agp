@@ -1,0 +1,40 @@
+##agp-version 2.0
+# ORGANISM:  
+# TAX_ID:  
+# ASSEMBLY NAME:  A2
+# ASSEMBLY DATE: 31日-08月-CST
+# GENOME CENTER: Novogene
+# DESCRIPTION: Example AGP specifying the assembly of scaffolds from WGS contigs
+Scaffold1	1	483539	1	W	Scaffold1_1	1	483539	+
+Scaffold2	1	422583	1	W	Scaffold2_1	1	422583	+
+Scaffold3	1	419339	1	W	Scaffold3_1	1	419339	+
+Scaffold4	1	336821	1	W	Scaffold4_1	1	336821	+
+Scaffold5	1	336455	1	W	Scaffold5_1	1	336455	+
+Scaffold6	1	288161	1	W	Scaffold6_1	1	288161	+
+Scaffold7	1	207936	1	W	Scaffold7_1	1	207936	+
+Scaffold8	1	190777	1	W	Scaffold8_1	1	190777	+
+Scaffold9	1	163504	1	W	Scaffold9_1	1	163504	+
+Scaffold10	1	154512	1	W	Scaffold10_1	1	154512	+
+Scaffold11	1	141498	1	W	Scaffold11_1	1	141498	+
+Scaffold12	1	103803	1	W	Scaffold12_1	1	103803	+
+Scaffold13	1	97831	1	W	Scaffold13_1	1	97831	+
+Scaffold14	1	87190	1	W	Scaffold14_1	1	87190	+
+Scaffold15	1	84770	1	W	Scaffold15_1	1	84770	+
+Scaffold16	1	83077	1	W	Scaffold16_1	1	83077	+
+Scaffold17	1	57314	1	W	Scaffold17_1	1	57314	+
+Scaffold18	1	52783	1	W	Scaffold18_1	1	52783	+
+Scaffold19	1	42289	1	W	Scaffold19_1	1	42289	+
+Scaffold20	1	31272	1	W	Scaffold20_1	1	31272	+
+Scaffold21	1	30523	1	W	Scaffold21_1	1	30523	+
+Scaffold22	1	10274	1	W	Scaffold22_1	1	10274	+
+Scaffold23	1	7873	1	W	Scaffold23_1	1	7873	+
+Scaffold24	1	5430	1	W	Scaffold24_1	1	5430	+
+Scaffold25	1	4658	1	W	Scaffold25_1	1	4658	+
+Scaffold26	1	2947	1	W	Scaffold26_1	1	2947	+
+Scaffold27	1	1744	1	W	Scaffold27_1	1	1744	+
+Scaffold28	1	1598	1	W	Scaffold28_1	1	1598	+
+Scaffold29	1	1469	1	W	Scaffold29_1	1	1469	+
+Scaffold30	1	1345	1	W	Scaffold30_1	1	1345	+
+Scaffold31	1	1217	1	W	Scaffold31_1	1	1217	+
+Scaffold32	1	746	1	W	Scaffold32_1	1	746	+
+Scaffold33	1	648	1	W	Scaffold33_1	1	648	+
