@@ -1,0 +1,6 @@
+##gff-version 3
+Scaffold1	TRF	TandemRepeat	56958	57080	192	+	.	ID=A2_TR004;PeriodSize=6;CopyNumber=20.5;PercentMatches=99;PercentIndels=0;Consensus=GCCTGA;
+Scaffold3	TRF	TandemRepeat	226211	226254	61	+	.	ID=A2_TR082;PeriodSize=6;CopyNumber=7.3;PercentMatches=92;PercentIndels=0;Consensus=TCCGGT;
+Scaffold3	TRF	TandemRepeat	226253	226542	301	+	.	ID=A2_TR083;PeriodSize=6;CopyNumber=48.3;PercentMatches=84;PercentIndels=0;Consensus=TCGGGC;
+Scaffold3	TRF	TandemRepeat	319112	319256	76	+	.	ID=A2_TR097;PeriodSize=6;CopyNumber=24.2;PercentMatches=72;PercentIndels=2;Consensus=CTTCGG;
+Scaffold4	TRF	TandemRepeat	248085	248170	172	+	.	ID=A2_TR119;PeriodSize=6;CopyNumber=14.3;PercentMatches=100;PercentIndels=0;Consensus=TGGTCG;

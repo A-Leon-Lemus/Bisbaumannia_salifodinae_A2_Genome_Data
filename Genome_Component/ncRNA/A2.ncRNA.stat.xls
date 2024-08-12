@@ -1,0 +1,9 @@
+	Type	Number#	Avg_Len	Total_Len	% in Genome
+	tRNA	62	78	4,854	0.1259
+rRNA_de	5s	6	115	690
+	16s	1	1,528	1,528	0.1280
+	23s	1	2,717	2,717	
+rRNA_ho	5s	-	-	-	
+	16s	-	-	-	-
+	23s	-	-	-	
+	sRNA	4	152	609	0.0158

@@ -1,0 +1,8 @@
+Type	Number(#)	Total Length(bp)	In Genome(%)	Average length(bp)
+LTR	25	2,596	0.0673	112
+DNA	7	466	0.0121	67
+LINE	2	419	0.0109	210
+SINE	8	503	0.0130	63
+RC	1	77	0.0020	77
+Unknown	0	0	0	0
+Total	43	3,770	0.0978	99

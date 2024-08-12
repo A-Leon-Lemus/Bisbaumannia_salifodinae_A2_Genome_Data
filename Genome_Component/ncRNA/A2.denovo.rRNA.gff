@@ -1,0 +1,15 @@
+##gff-version2
+##source-version RNAmmer-1.2
+##date 2022-08-31
+##Type DNA
+# seqname           source                      feature     start      end   score   +/-  frame  attribute
+# ---------------------------------------------------------------------------------------------------------
+Scaffold27	RNAmmer-1.2	rRNA	184	1711	1964.4	+	.	16s_rRNA
+Scaffold14	RNAmmer-1.2	rRNA	87067	87181	101.4	-	.	5s_rRNA
+Scaffold26	RNAmmer-1.2	rRNA	2830	2944	101.4	+	.	5s_rRNA
+Scaffold17	RNAmmer-1.2	rRNA	10	124	101.4	+	.	5s_rRNA
+Scaffold12	RNAmmer-1.2	rRNA	103680	103794	101.4	-	.	5s_rRNA
+Scaffold1	RNAmmer-1.2	rRNA	10	124	101.4	+	.	5s_rRNA
+Scaffold6	RNAmmer-1.2	rRNA	10	124	101.4	+	.	5s_rRNA
+Scaffold26	RNAmmer-1.2	rRNA	1	2717	3349.8	+	.	23s_rRNA
+# ---------------------------------------------------------------------------------------------------------

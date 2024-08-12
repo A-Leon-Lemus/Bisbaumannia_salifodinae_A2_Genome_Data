@@ -1,0 +1,372 @@
+Scaffold1.trna1 (172188-172280)	Length: 93 bp
+Type: Ser	Anticodon: GCT at 35-37 (172222-172224)	Score: 78.21
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGAGAGGTGGCCGAGTGGCtgAAGGCGCTCCCCTGCTAAGGGAGTATGGGGTTTATaGCCTCATCGAGGGTTCGAATCCCTCCCTCTCCGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>>>.....<<<<<<<.>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna2 (172314-172390)	Length: 77 bp
+Type: Arg	Anticodon: ACG at 35-37 (172348-172350)	Score: 91.07
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCGCCCGTAGCTCAGCTGGAtAGAGTACCTGACTACGAATCAGGTGGtCGGAGGTTCGAATCCTCCCGGGCGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna3 (172445-172521)	Length: 77 bp
+Type: Arg	Anticodon: ACG at 35-37 (172479-172481)	Score: 91.07
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCGCCCGTAGCTCAGCTGGAtAGAGTACCTGACTACGAATCAGGTGGtCGGAGGTTCGAATCCTCCCGGGCGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna4 (299681-299756)	Length: 76 bp
+Type: Lys	Anticodon: TTT at 34-36 (299714-299716)	Score: 97.16
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGTCGTTAGCTCAGTTGGTAGAGCAGTTGGCTTTTAACCAATTGGtCGTAGGTTCGAATCCTACACGACCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna5 (299799-299874)	Length: 76 bp
+Type: Lys	Anticodon: TTT at 34-36 (299832-299834)	Score: 97.16
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGTCGTTAGCTCAGTTGGTAGAGCAGTTGGCTTTTAACCAATTGGtCGTAGGTTCGAATCCTACACGACCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna6 (299910-299985)	Length: 76 bp
+Type: Lys	Anticodon: TTT at 34-36 (299943-299945)	Score: 97.16
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGTCGTTAGCTCAGTTGGTAGAGCAGTTGGCTTTTAACCAATTGGtCGTAGGTTCGAATCCTACACGACCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna7 (359738-359813)	Length: 76 bp
+Type: Val	Anticodon: TAC at 34-36 (359771-359773)	Score: 96.29
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGTGGTTAGCTCAGTTGGAAGAGCACCAGCCTTACAAGCTGGGGGtCACTGGTTCGAGCCCAGTACCACCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna8 (359855-359931)	Length: 77 bp
+Type: Asp	Anticodon: GTC at 35-37 (359889-359891)	Score: 96.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGACCGGTAGTTCAGTTGGTtAGAATGCCGGCCTGTCACGCCGGAGGtCGCGGGTTCGAGTCCCGTCCGGTCCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna9 (359985-360061)	Length: 77 bp
+Type: Asp	Anticodon: GTC at 35-37 (360019-360021)	Score: 96.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGACCGGTAGTTCAGTTGGTtAGAATGCCGGCCTGTCACGCCGGAGGtCGCGGGTTCGAGTCCCGTCCGGTCCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna10 (360101-360177)	Length: 77 bp
+Type: Val	Anticodon: CAC at 35-37 (360135-360137)	Score: 96.08
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGGTGATTAGCTCAGTTGGTtAGAGCACCAGCCTCACATGCTGGGGGtCACTGGTTCGAATCCGGTATCACCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna11 (360181-360257)	Length: 77 bp
+Type: Asp	Anticodon: GTC at 35-37 (360215-360217)	Score: 96.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGACCGGTAGTTCAGTTGGTtAGAATGCCGGCCTGTCACGCCGGAGGtCGCGGGTTCGAGTCCCGTCCGGTCCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna12 (370196-370110)	Length: 87 bp
+Type: Leu	Anticodon: CAG at 35-37 (370162-370160)	Score: 78.66
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCCAGGTGGCGGAATTGGTaGACGCGCTAGCTTCAGGTGCTAGTGTCCTTACGGACGTGGAGGTTCAAGTCCTCTCCTGGGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna13 (370029-369943)	Length: 87 bp
+Type: Leu	Anticodon: CAG at 35-37 (369995-369993)	Score: 78.66
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCCAGGTGGCGGAATTGGTaGACGCGCTAGCTTCAGGTGCTAGTGTCCTTACGGACGTGGAGGTTCAAGTCCTCTCCTGGGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna14 (369909-369823)	Length: 87 bp
+Type: Leu	Anticodon: CAG at 35-37 (369875-369873)	Score: 78.66
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCCAGGTGGCGGAATTGGTaGACGCGCTAGCTTCAGGTGCTAGTGTCCTTACGGACGTGGAGGTTCAAGTCCTCTCCTGGGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna15 (369781-369695)	Length: 87 bp
+Type: Leu	Anticodon: CAG at 35-37 (369747-369745)	Score: 77.87
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCCAGATGGCGGAATTGGTaGACGCGCTAGCTTCAGGTGCTAGTGTCCTTACGGACGTGGAGGTTCAAGTCCTCTTCTGGGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna16 (285012-284937)	Length: 76 bp
+Type: Thr	Anticodon: CGT at 34-36 (284979-284977)	Score: 97.89
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GCCGCAATAGCTCAGTTGGCAGAGCAACTGACTCGTAATCAGTAGGtCGGCGGTTCGACTCCGCCTTGCGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold1.trna17 (11441-11365)	Length: 77 bp
+Type: Met	Anticodon: CAT at 35-37 (11407-11405)	Score: 83.09
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: TGCGGGGTGGAGCAGTCtGGTAGCTCGTCGGGCTCATAACCCGAAGGtCATCGGTTCAAATCCGGTCCCCGCTACCA
+Str: .>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<.....
+
+Scaffold2.trna1 (113161-113236)	Length: 76 bp
+Type: Ala	Anticodon: GGC at 34-36 (113194-113196)	Score: 84.54
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGGCCTTAGCTCAGCTGGGAGAGCGCAACACTGGCAGTGTTGAGGtCAGCGGTTCGATCCCGCTAGGCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna2 (161583-161659)	Length: 77 bp
+Type: Val	Anticodon: GAC at 35-37 (161617-161619)	Score: 90.23
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: AGGACCATAGCTCAGTTGGTtAGAGCGCCACGTTGACATCGTGGAGGtCAGCGGTTCAAATCCGCTTGGTCCTACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna3 (161677-161753)	Length: 77 bp
+Type: Val	Anticodon: GAC at 35-37 (161711-161713)	Score: 90.23
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: AGGACCATAGCTCAGTTGGTtAGAGCGCCACGTTGACATCGTGGAGGtCAGCGGTTCAAATCCGCTTGGTCCTACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna4 (228670-228746)	Length: 77 bp
+Type: Pro	Anticodon: TGG at 35-37 (228704-228706)	Score: 92.69
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: CGGGGTGTAGCGCAGTCtGGTAGCGCGCCTGCTTTGGGAGCAGGATGtCGGGGGTTCGAATCCCTCCACCCCGACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna5 (228809-228885)	Length: 77 bp
+Type: Arg	Anticodon: TCT at 35-37 (228843-228845)	Score: 92.68
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCGCCCATAGCTCAACCGGAtAGAGCAACGGCCTTCTAAGCCGTGGGtTGCAGGTTCGAGTCCTGCTGGGCGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna6 (228941-229015)	Length: 75 bp
+Type: His	Anticodon: GTG at 33-35 (228973-228975)	Score: 81.37
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GTGGATGTAGCTCAGTGGTAGAGCCCCGGATTGTGGCTCCGGTGGtCGTGGGTTCGATCCCCATCATCCACCCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna7 (229058-229132)	Length: 75 bp
+Type: His	Anticodon: GTG at 33-35 (229090-229092)	Score: 81.37
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GTGGATGTAGCTCAGTGGTAGAGCCCCGGATTGTGGCTCCGGTGGtCGTGGGTTCGATCCCCATCATCCACCCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna8 (301584-301495)	Length: 90 bp
+Type: Ser	Anticodon: TGA at 35-37 (301550-301548)	Score: 74.12
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GGAGGGATGGCAGAGCGGTtgAATGCACCGGTCTTGAAAACCGGCGTAGGTGAGAGCCTACCCAGGGTTCGAATCCCTGTCCCTCCGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>>....<<<<<<.>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna9 (109649-109575)	Length: 75 bp
+Type: Gly	Anticodon: GCC at 33-35 (109617-109615)	Score: 93.44
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCGGGAATAGCTCAGTGGTAGAGCATCGCCTTGCCAAGGCGAGGGtCGCGAGTTCGAATCTCGTTTCCCGCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna10 (109435-109362)	Length: 74 bp
+Type: Cys	Anticodon: GCA at 33-35 (109403-109401)	Score: 60.15
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCTGGATGGCAGAGTGGTCATGCAGCGGACTGCAACTCCGTGTACGCCGGTTCGATTCCGACTCCAGCCTCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>.>>>.......<<<.<<<<<<<<....
+
+Scaffold2.trna11 (109332-109246)	Length: 87 bp
+Type: Leu	Anticodon: TAA at 35-37 (109298-109296)	Score: 79.68
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCCGGATGGCGAAATTGGTaGACGCAAGAGACTTAAAATCTCTCGGTGGCAACACCGTGCCGGTTCGAGCCCGGCTCCGGGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold2.trna12 (88333-88249)	Length: 85 bp
+Type: Leu	Anticodon: TAG at 35-37 (88299-88297)	Score: 73.65
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCGGATGTGGTGGAATTGGTaGACACGCCAGATTTAGGTTCTGGTGCCTTCGGGCGTGGGAGTTCAAGTCTCCCCATCCGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold3.trna1 (64460-64533)	Length: 74 bp
+Type: Gly	Anticodon: CCC at 33-35 (64492-64494)	Score: 81.34
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGGGTGTAGCTCAATGGTAGAGCAGAAGCTTCCCAAGCTTAAGACGAGGGTTCGATTCCCTTCACCCGCTCCA
+Str: >>>>>>>..>>>>.......<<<<..>>>>.......<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold3.trna2 (154964-155040)	Length: 77 bp
+Type: Arg	Anticodon: CCT at 35-37 (154998-155000)	Score: 88.99
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCCCCATAGCTCAGCTGGAtAGAGCGATCCCCTCCTAAGGGATAGGtCTCAGGTTCGAATCCTGATGGGGGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold3.trna3 (279839-279763)	Length: 77 bp
+Type: Met	Anticodon: CAT at 35-37 (279805-279803)	Score: 96.19
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGGCCTATAGCTCAGTTGGTtAGAGCAGGGGACTCATAATCCCTTGGtCGCTGGTTCGAGTCCAGCTGGGCCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold4.trna1 (178125-178201)	Length: 77 bp
+Type: Arg	Anticodon: CCG at 35-37 (178159-178161)	Score: 91.61
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCGCCCGTAGCTCAGCTGGAtAGAGTACTGCCCTCCGAAGGCAGGGGtCACAGGTTCGAATCCTGTCGGGCGCGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold5.trna1 (46745-46671)	Length: 75 bp
+Type: Gln	Anticodon: TTG at 33-35 (46713-46711)	Score: 67.67
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: TGGGGTATAGCCAAGCGGTAAGGCAGCGGTTTTTGGTATCGCCATgCGCAGGTTCGAATCCTGCTACCCCAGCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold5.trna2 (39597-39521)	Length: 77 bp
+Type: Met	Anticodon: CAT at 35-37 (39563-39561)	Score: 90.37
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGCTACGTAGCTCAGCTGGTtAGAGCACATCACTCATAATGATGGGGtCCCCTGTTCGAATCAGGGCGTAGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold6.trna1 (16891-16966)	Length: 76 bp
+Type: Phe	Anticodon: GAA at 34-36 (16924-16926)	Score: 91.09
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGCCAGATAGCTCAGTCGGTAGAGCAGGGGATTGAAAATCCCCGTGtCGGGGGTTCGATTCCCTCTCTGGCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold6.trna2 (16973-17047)	Length: 75 bp
+Type: Gln	Anticodon: TTG at 33-35 (17005-17007)	Score: 69.42
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: TGGGGTATCGCCAAGTGGTAAGGCACCGGTTTTTGGTATCGGCATtCCCAGGTTCGAATCCTGGTACCCCAGCCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold6.trna3 (17110-17185)	Length: 76 bp
+Type: Thr	Anticodon: TGT at 34-36 (17143-17145)	Score: 96.78
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GCCGGCATAGCTCAGTTGGTAGAGCAACTGACTTGTAATCAGTAGGtCCCGGGTTCGACTCCTGGTGCCGGCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold6.trna4 (250515-250601)	Length: 87 bp
+Type: Leu	Anticodon: CAA at 35-37 (250549-250551)	Score: 80.25
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCGGTGTGGCGGAATTGGTaGACGCAGCGGATTCAAAATCCGCCGGGTGCAAGCCCtTGTCGGTTCGAGTCCGACCACCGGTACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<..>>>....<<<...>>>>>.......<<<<<<<<<<<<....
+
+Scaffold7.trna1 (135901-135826)	Length: 76 bp
+Type: Asn	Anticodon: GTT at 34-36 (135868-135866)	Score: 96.47
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: TCCCCGATAGCTCAGTTGGTAGAGCAAATGACTGTTAATCATTGGGtCGCAGGTTCGAGTCCTGCTCGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold7.trna2 (135794-135719)	Length: 76 bp
+Type: Asn	Anticodon: GTT at 34-36 (135761-135759)	Score: 93.67
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: TCCTCGATAGCTCAGTTGGTAGAGCAAGTGACTGTTAATCACTGGGtCGCAGGTTCGAGTCCTGCTCGAGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold7.trna3 (135685-135610)	Length: 76 bp
+Type: Asn	Anticodon: GTT at 34-36 (135652-135650)	Score: 96.47
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: TCCCCGATAGCTCAGTTGGTAGAGCAAATGACTGTTAATCATTGGGtCGCAGGTTCGAGTCCTGCTCGGGGAGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna1 (45620-45695)	Length: 76 bp
+Type: Ala	Anticodon: GGC at 34-36 (45653-45655)	Score: 84.54
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGGCCTTAGCTCAGCTGGGAGAGCGCAACACTGGCAGTGTTGAGGtCAGCGGTTCGATCCCGCTAGGCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna2 (45720-45795)	Length: 76 bp
+Type: Glu	Anticodon: TTC at 35-37 (45754-45756)	Score: 65.90
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GTCCCATTCGTCTAGTGGTctAGGACACCGCCCTTTCACGGCGGTAACAGGGGTTCGAACCCCCTATGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna3 (157865-157940)	Length: 76 bp
+Type: Glu	Anticodon: TTC at 35-37 (157899-157901)	Score: 65.90
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GTCCCATTCGTCTAGTGGTctAGGACACCGCCCTTTCACGGCGGTAACAGGGGTTCGAACCCCCTATGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna4 (157972-158046)	Length: 75 bp
+Type: Gly	Anticodon: GCC at 33-35 (158004-158006)	Score: 93.44
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCGGGAATAGCTCAGTGGTAGAGCATCGCCTTGCCAAGGCGAGGGtCGCGAGTTCGAATCTCGTTTCCCGCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna5 (158067-158142)	Length: 76 bp
+Type: Glu	Anticodon: TTC at 35-37 (158101-158103)	Score: 65.90
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GTCCCATTCGTCTAGTGGTctAGGACACCGCCCTTTCACGGCGGTAACAGGGGTTCGAACCCCCTATGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna6 (158174-158248)	Length: 75 bp
+Type: Gly	Anticodon: GCC at 33-35 (158206-158208)	Score: 93.44
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCGGGAATAGCTCAGTGGTAGAGCATCGCCTTGCCAAGGCGAGGGtCGCGAGTTCGAATCTCGTTTCCCGCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna7 (158283-158358)	Length: 76 bp
+Type: Glu	Anticodon: TTC at 35-37 (158317-158319)	Score: 64.01
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GTCCCATTCGTCTAGTGGCctAGGACACCGCCCTTTCACGGCGGTAACAGGGGTTCGAACCCCCTATGGGACGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna8 (158380-158454)	Length: 75 bp
+Type: Gly	Anticodon: GCC at 33-35 (158412-158414)	Score: 92.33
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCGGGAATAGCTCAGTGGTAGAGCACAACCTTGCCAAGGTTGGGGtCGCGAGTTCGAATCTCGTTTCCCGCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold8.trna9 (167304-167391)	Length: 88 bp
+Type: Ser	Anticodon: GGA at 35-37 (167338-167340)	Score: 69.71
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GGAGGGGTGTCCGAGTGGTcgAAGGAGCACGCCTGGAAAGTGTGTAAGTCGAAAGGCTTCGAGGGTTCGAATCCCTCCCCCTCCGCCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<..>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold11.trna1 (24621-24535)	Length: 87 bp
+Type: Leu	Anticodon: GAG at 35-37 (24587-24585)	Score: 68.35
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GCCGAAGTGGTGGAATTGGTaGACACGCTATCTTGAGGGGGTAGTGGCCTTACGGCCGTGCGGGTTCAAGTCCCGCCTTCGGCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<....
+
+Scaffold11.trna2 (24436-24360)	Length: 77 bp
+Type: Met	Anticodon: CAT at 35-37 (24402-24400)	Score: 83.09
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: TGCGGGGTGGAGCAGTCtGGTAGCTCGTCGGGCTCATAACCCGAAGGtCATCGGTTCAAATCCGGTCCCCGCTACCA
+Str: .>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<.....
+
+Scaffold12.trna1 (41366-41442)	Length: 77 bp
+Type: Pro	Anticodon: CGG at 35-37 (41400-41402)	Score: 88.75
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: CGGAGTATAGCTCAGCTtGGTAGAGCGCTGCCTTCGGGAGGCAGAGGtCGTAGGTTCGAATCCTGCTACTCCGACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold12.trna2 (101319-101236)	Length: 84 bp
+Type: Tyr	Anticodon: GTA at 35-37 (101285-101283)	Score: 69.03
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGAGGGGTTCCCGAGTGGCcaAAGGGAGCAGACTGTAAATCTGCCGCGAAAGCTtCGAAGGTTCGAATCCTTCCCCCTCCACCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<...>>>>>.......<<<<<<<<<<<<....
+
+Scaffold12.trna3 (101190-101117)	Length: 74 bp
+Type: Gly	Anticodon: TCC at 33-35 (101158-101156)	Score: 83.87
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGGGCATAGTTCAATGGTAGAACCTCAGCCTTCCAAGCTGATGGTGCGGGTTCGATTCCCGCTGCCCGCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold12.trna4 (101104-101030)	Length: 75 bp
+Type: Thr	Anticodon: GGT at 33-35 (101072-101070)	Score: 87.24
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCTCATGTAGCTCAGGGGTAGAGCACACCCTTGGTAAGGGTGAGGtCGACGGTTCAAATCCGTCCATGAGCTCCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold12.trna5 (100868-100793)	Length: 76 bp
+Type: Trp	Anticodon: CCA at 34-36 (100835-100833)	Score: 87.26
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: AGGCCAGTAGCTCAATTGGCAGAGCAGCGGTCTCCAAAACCGCAGGtTGGGGGTTCGATTCCCTCCTGGCCTGCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold15.trna1 (36953-36877)	Length: 77 bp
+Type: Pro	Anticodon: GGG at 35-37 (36919-36917)	Score: 82.49
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: CGGAGCGTGGCGCAGCTtGGTAGCGCGCTGCAATGGGGTTGCAGAGGtCGCAGGTTCGAATCCTGTCGCTCCGACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold16.trna1 (42710-42634)	Length: 77 bp
+Type: Met	Anticodon: CAT at 35-37 (42676-42674)	Score: 90.37
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGCTACGTAGCTCAGCTGGTtAGAGCACATCACTCATAATGATGGGGtCCCCTGTTCGAATCAGGGCGTAGCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold32.trna1 (466-390)	Length: 77 bp
+Type: Ile	Anticodon: GAT at 35-37 (432-430)	Score: 97.71
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGGTCTGTAGCTCAGTTGGTtAGAGCGCACCCCTGATAAGGGTGAGGtCGGCAGTTCAAATCTGCCCAGACCCACCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+
+Scaffold32.trna2 (298-223)	Length: 76 bp
+Type: Ala	Anticodon: TGC at 34-36 (265-263)	Score: 93.92
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGGGCCTTAGCTCAGCTGGGAGAGCGCCTGCCTTGCACGCAGGAGGtCAGCGGTTCGATCCCGCTAGGCTCCACCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<....
+

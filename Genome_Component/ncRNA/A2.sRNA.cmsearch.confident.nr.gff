@@ -1,0 +1,4 @@
+Scaffold1	cmsearch	sRNA	90024	90126	73.2	+	.	ID=A2_sRNA_000014;Target=RF00127:1:96;Threshold=22.00;type="Gene; sRNA;";Annotation=t44 RNA;
+Scaffold11	cmsearch	sRNA	99962	100115	35.2	+	.	ID=A2_sRNA_000005;Target=RF00444:1:150;Threshold=32.00;type="Gene; sRNA;";Annotation=PrrF RNA;
+Scaffold11	cmsearch	sRNA	100180	100333	42.9	+	.	ID=A2_sRNA_000002;Target=RF00444:1:150;Threshold=32.00;type="Gene; sRNA;";Annotation=PrrF RNA;
+Scaffold7	cmsearch	sRNA	137058	136861	56.5	-	.	ID=A2_sRNA_000031;Target=RF02243:1:323;Threshold=25.00;type="Gene; sRNA;";Annotation=Proteobacterial sRNA Xoo8;
